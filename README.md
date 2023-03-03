@@ -10,6 +10,7 @@
 </p>
 <p align="center">
 If you want to contact me:<br>
+<a href="https://about.me/LauDev" target="_blank" rel="noreferrer"><img src="https://about.me/s3/h/favicon/favicon_48.0049c8b6.png" width="36" height="36" alt="About Me Page"></a>
 <a href="mailto:lautarocepeda.developer@gmail.com" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Gmail_icon_%282020%29.svg/2560px-Gmail_icon_%282020%29.svg.png" width="45" height="36" alt="Gmail"></a>
 <a href="https://discord.com/users/255785034076651522" target="_blank" rel="noreferrer"><img src="https://assets-global.website-files.com/6257adef93867e50d84d30e2/636e0a6a49cf127bf92de1e2_icon_clyde_blurple_RGB.png" width="45" height="36" alt="Discord"></a>
 <a href="Linkedin" target="_blank" rel="noreferrer"><img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="36" height="36" alt="Linkedin"></a>
