@@ -1,7 +1,7 @@
 # <p align="center">About me</p>
 
 <p align="center">
-  Hi!!! My name is Lautaro (anyways i prefer "Lau" <3)<br>
+  Hi!!! I'm Lautaro (anyways i prefer "Lau")<br>
   ¡Welcome to my github!<br>
  </p>
  <p align="center">
