@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Lautaro and I'm a Full Stack Developer, from Argentina</p>
+<p align="left">My name is Lautaro and I'm a Full Stack Developer, from Argentina. You cand find me online as <b>l_lau_u</b> or <b>LautaroCepeda-Developer</b> </p>
 
 ###
 
