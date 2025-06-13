@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Full Stack Senior Developer at Komet Systems<br>📚 I'm currently learning Docker.<br>🎯 Goals: Work in a lot of projects collaborating with multiple teams and clients.<br>🎲 Fun fact: I'm developing since I have 10 years old.</p>
+<p align="left">✨ Full Stack Senior Developer at Komet Systems<br>📚 I'm currently learning Docker.<br>🎯 Goals: Work in a lot of projects collaborating with multiple teams and clients.
 
 ###
 
